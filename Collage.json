@@ -1,0 +1,235 @@
+{
+    "colleges": [
+      {
+        "college_name": "University of XYZ",
+        "college_image": "https://img.freepik.com/free-photo/red-buildings-households_1127-2024.jpg?w=740&t=st=1690183744~exp=1690184344~hmac=2338fbefdc5a2a94e59c196696619c558773764418a75968eb5124a236458e6d",
+        "admission_dates": {
+          "fall": "September 15 - December 1",
+          "spring": "January 15 - April 1"
+        },
+        "events": [
+          "Orientation Week",
+          "Homecoming",
+          "Career Fair",
+          "Annual Arts Festival"
+        ],
+        "rating":4.5,
+        "number_of_research":20,
+        "research_history": "Founded in 19XX, the University of XYZ has a long-standing tradition of excellence in research and innovation.",
+        "sports": [
+          "Basketball",
+          "Soccer",
+          "Swimming",
+          "Tennis"
+        ]
+      },
+      {
+        "college_name": "ABC State University",
+        "college_image": "https://img.freepik.com/premium-photo/beautiful-country-house-modern-style_1127-4467.jpg?w=740",
+        "admission_dates": {
+          "fall": "August 1 - November 15",
+          "spring": "December 1 - March 15"
+        },
+        "events": [
+          "Welcome Week",
+          "Homecoming Parade",
+          "International Food Festival",
+          "Science and Technology Symposium"
+        ],
+        "rating":5,
+        "number_of_research":10,
+        "research_history": "ABC State University is a leading research institution, conducting groundbreaking studies in various fields.",
+        "sports": [
+          "Football",
+          "Volleyball",
+          "Baseball",
+          "Track and Field"
+        ]
+      },
+      {
+        "college_name": "Sunshine College",
+        "college_image": "https://img.freepik.com/premium-photo/face-masks-campus-covid-restrictions-new-normal_53876-152987.jpg?w=740",
+        "admission_dates": {
+          "fall": "October 1 - January 15",
+          "spring": "February 1 - April 15"
+        },
+        "events": [
+          "Spring Fling",
+          "Leadership Summit",
+          "Art Showcase",
+          "Music Festival"
+        ],
+        "rating":4.5,
+        "number_of_research":200,
+        "research_history": "Sunshine College has a rich history of research accomplishments and fosters an environment of curiosity and innovation.",
+        "sports": [
+          "Golf",
+          "Cricket",
+          "Rugby",
+          "Badminton"
+        ]
+      },
+      {
+        "college_name": "Harmony Institute of Technology",
+        "college_image": "https://img.freepik.com/premium-photo/view-stanford-university-palo-alto-silicon-valley-california-usa_479694-3092.jpg?w=740",
+        "admission_dates": {
+          "fall": "September 1 - December 15",
+          "spring": "January 5 - March 31"
+        },
+        "events": [
+          "Tech Expo",
+          "Hackathon",
+          "Robotics Competition",
+          "Entrepreneurship Summit"
+        ],
+        "rating":4.5,
+        "number_of_research":150,
+        "research_history": "Harmony Institute of Technology is at the forefront of cutting-edge research, pushing the boundaries of technological advancement.",
+        "sports": [
+          "Esports",
+          "Table Tennis",
+          "Chess",
+          "Squash"
+        ]
+      },
+      {
+        "college_name": "Greenwood College",
+        "college_image": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-41.jpg?w=826&t=st=1690183867~exp=1690184467~hmac=aa24f6b23e935d988b4268958debd590da6992fb1972a4e083158b9ada7e4ddd",
+        "admission_dates": {
+          "fall": "October 15 - January 31",
+          "spring": "February 15 - May 1"
+        },
+        "events": [
+          "Nature Day",
+          "Cultural Fair",
+          "Science Symposium",
+          "Film Festival"
+        ],
+        "rating":4.5,
+        "number_of_research":70,
+        "research_history": "Greenwood College boasts a long and esteemed history of conducting impactful research in environmental and social sciences.",
+        "sports": [
+          "Hiking",
+          "Canoeing",
+          "Archery",
+          "Ultimate Frisbee"
+        ]
+      },
+      {
+        "college_name": "Liberty Arts Academy",
+        "college_image": "https://img.freepik.com/premium-photo/group-students-with-protective-face-mask-walking-university-campus_371418-54.jpg?w=740",
+        "admission_dates": {
+          "fall": "September 1 - December 15",
+          "spring": "January 5 - March 31"
+        },
+        "events": [
+          "Art Gala",
+          "Theater Showcase",
+          "Literary Festival",
+          "Music Recitals"
+        ],
+        "rating":4.5,
+        "number_of_research":50,
+        "research_history": "Liberty Arts Academy celebrates a long legacy of nurturing artistic talents and fostering a vibrant creative community.",
+        "sports": [
+          "Dance",
+          "Paintball",
+          "Fencing",
+          "Horse Riding"
+        ]
+      },
+      {
+        "college_name": "Evergreen Medical University",
+        "college_image": "https://example.com/evergreen_medical_university.jpg",
+        "admission_dates": {
+          "fall": "August 15 - November 30",
+          "spring": "December 15 - March 31"
+        },
+        "events": [
+          "Medical Conference",
+          "Health Fair",
+          "Research Symposium",
+          "Sports Medicine Workshop"
+        ],
+        "rating":5,
+        "number_of_research":90,
+        "research_history": "Evergreen Medical University is a leading institution in medical research and healthcare innovation.",
+        "sports": [
+          "Swimming",
+          "Basketball",
+          "Tennis",
+          "Volleyball"
+        ]
+      },
+      {
+        "college_name": "Global Business Institute",
+        "college_image": "https://img.freepik.com/free-photo/school-teaching-building_1205-822.jpg?1&w=740&t=st=1690183913~exp=1690184513~hmac=e1917683cfc4ace1ab73952b536c22b2831e64d7997e275a5e3aabb0c420428b",
+        "admission_dates": {
+          "fall": "September 1 - December 15",
+          "spring": "January 5 - April 1"
+        },
+        "events": [
+          "Business Summit",
+          "International Trade Expo",
+          "Entrepreneurship Fair",
+          "Finance Forum"
+        ],
+        "rating":4.5,
+        "number_of_research":40,
+        "research_history": "Global Business Institute is renowned for producing world-class business leaders and conducting impactful research in global economics.",
+        "sports": [
+          "Soccer",
+          "Basketball",
+          "Golf",
+          "Tennis"
+        ]
+      },
+      {
+        "college_name": "Harmony College of Music",
+        "college_image": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-51.jpg?w=826&t=st=1690183930~exp=1690184530~hmac=1ed237f63615b5ac161cf46485d80e6d92c881ca6a44b92aee3fdcc2ffa21dbd",
+        "admission_dates": {
+          "fall": "October 1 - December 31",
+          "spring": "January 15 - March 15"
+        },
+        "events": [
+          "Concert Series",
+          "Music Workshops",
+          "Jazz Festival",
+          "Choir Competition"
+        ],
+        "rating":5,
+        "number_of_research":55,
+        "research_history": "Harmony College of Music is a prestigious institution dedicated to the advancement of musical arts and performance.",
+        "sports": [
+          "Piano Olympics",
+          "Violin Archery",
+          "Synchronized Dancing",
+          "Music Marathon"
+        ]
+      },
+      {
+        "college_name": "Sports Academy XYZ",
+        "college_image": "https://img.freepik.com/free-photo/harvard-university-cambridge-usa_1268-14363.jpg?w=740&t=st=1690183946~exp=1690184546~hmac=538f06d791118338eb1437fc1f8c71b56c66f37ba284d8e1f86815a95cbffe12",
+        "admission_dates": {
+          "fall": "August 1 - November 30",
+          "spring": "December 1 - March 31"
+        },
+        "events": [
+          "Sports Fest",
+          "Championships",
+          "Coaching Clinics",
+          "Athletic Symposium"
+        ],
+        "number_of_research":44,
+        "rating":4.5,
+        "research_history": "Sports Academy XYZ is a premier institute known for its excellence in sports training and sports-related research.",
+        "sports": [
+          "Basketball",
+          "Soccer",
+          "Swimming",
+          "Tennis"
+        ]
+      }
+    ]
+  }
+  
